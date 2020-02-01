@@ -127,6 +127,10 @@ Feel free to take inspiration from the [Altair example gallery](https://altair-v
 
 ### Troubleshooting
 
+* For Altair problems, see [the UW Visualization Curriculum debugging guide](https://github.com/uwdata/visualization-curriculum/blob/master/altair_debugging.ipynb) and [the Altair FAQ](https://altair-viz.github.io/user_guide/faq.html).
+
+* Googling error messages can also help you sort out weird issues with Python and Jupyter Lab.
+
 * If you get a `NotImplementedError` for `asyncio` while running Python 3.8,
 edit `/env/Lib/site-packages/tornado/platform/asyncio.py` following the instructions [here](https://stackoverflow.com/questions/58422817/jupyter-notebook-with-python-3-8-notimplementederror/). Right after the line `import asyncio` add these lines:
     ```
