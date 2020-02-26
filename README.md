@@ -6,7 +6,7 @@ This repository is your starting point for the assignment and includes the instr
 
 In this assignment, you are going to create two basic visualizations using Altair.
 
-## Instructions
+## Instructions:
 
 ### Setup the Environment
 
@@ -80,12 +80,12 @@ Commit **and push** all your changes.
 1. Make sure to add all your required files, including the .ipynb file and any images.
 
 
-## Submission instructions
+## Submission instructions:
 
 * Ensure that both visualizations and prose are present in your notebook and that the visualizations are present in `README.md`.
 * Submit the link to your GitHub repository on Canvas.
 
-## Additional Resources
+## Additional Resources:
 
 [Altair documentation](https://altair-viz.github.io/). Note that it is for version 4, so there will be a few differences from what we are using.
 
